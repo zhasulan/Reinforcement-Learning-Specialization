@@ -28,7 +28,7 @@ This repository consists of empty and solved tasks and quizzes that I also compl
 
 ### Solved notebooks
 - Fundamentals of Reinforcement Learning
-	- Notebook: Bandits and Exploration-Exploitation
+	- [Notebook: Bandits and Exploration-Exploitation](https://nbviewer.jupyter.org/github/zhasulan/Reinforcement-Learning-Specialization/blob/master/1-course%3A%20Fundamentals%20of%20Reinforcement%20Learning/week1/Notebook%3A%20Bandits%20and%20Exploration-Exploitation/C1M1-Assignment1-v9-Solve.ipynb) 
 	- Notebook: Optimal Policies with Dynamic Programming
 - Sample-based Learning Methods
 	- Notebook: Blackjack
@@ -42,7 +42,7 @@ This repository consists of empty and solved tasks and quizzes that I also compl
 	- Notebook: Average Reward Softmax Actor-Critic using Tile-coding
 - A Complete Reinforcement Learning System (Capstone)
 
-### Reference Materials:
+### Reference Materials
 
 For Russian segment. Перевод книги Саттона в хорошем качестве можно скачать [здесь](https://drive.google.com/open?id=1pAIYdNCDee0QIjoj7J2hWynV8h2_e75o).
 
