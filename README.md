@@ -25,6 +25,9 @@ This repository consists of empty and solved tasks and quizzes that I also compl
 	- [Notebook: Function Approximation and Control](https://nbviewer.jupyter.org/github/zhasulan/Reinforcement-Learning-Specialization/blob/master/3-course%3A%20Prediction%20and%20Control%20with%20Function%20Approximation/week3/Notebook%3A%20Function%20Approximation%20and%20Control/Assignment3-v3.ipynb) 
 	- [Notebook: Average Reward Softmax Actor-Critic using Tile-coding](https://nbviewer.jupyter.org/github/zhasulan/Reinforcement-Learning-Specialization/blob/master/3-course%3A%20Prediction%20and%20Control%20with%20Function%20Approximation/week4/Notebook%3A%20Average%20Reward%20Softmax%20Actor-Critic%20using%20Tile-coding/C3M4_Assignment4-v8.ipynb) 
 - A Complete Reinforcement Learning System (Capstone)
+	- Notebook: MoonShot Technologies
+	- [Notebook: Implement Your Agent](https://nbviewer.jupyter.org/github/zhasulan/Reinforcement-Learning-Specialization/blob/master/4-course%3A%20A%20Complete%20Reinforcement%20Learning%20System%20%28Capstone%29/week5/Course4ProgrammingAssignment2-v4.ipynb)
+	- [Notebook: Completing the parameter study](https://nbviewer.jupyter.org/github/zhasulan/Reinforcement-Learning-Specialization/blob/master/4-course%3A%20A%20Complete%20Reinforcement%20Learning%20System%20%28Capstone%29/week6/C4M5_Assignment3-v9.ipynb)
 
 ### Solved notebooks
 - Fundamentals of Reinforcement Learning
@@ -41,6 +44,9 @@ This repository consists of empty and solved tasks and quizzes that I also compl
 	- Notebook: Function Approximation and Control
 	- Notebook: Average Reward Softmax Actor-Critic using Tile-coding
 - A Complete Reinforcement Learning System (Capstone)
+	- Notebook: MoonShot Technologies
+	- Notebook: Implement Your Agent
+	- Notebook: Completing the parameter study
 
 ### Reference Materials
 
